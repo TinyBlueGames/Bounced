@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4e64fd6b65b5a8542b1ed9e2175e4fe7
+timeCreated: 1524701978
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bottomWall: {instanceID: 0}
+  - leftWall: {instanceID: 0}
+  - rightWall: {instanceID: 0}
+  - topWall: {instanceID: 0}
+  - platform: {instanceID: 0}
+  - BallOne: {fileID: 1572578538537752, guid: 8eaed5c7806e49c468baf0a95b9e7da8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
